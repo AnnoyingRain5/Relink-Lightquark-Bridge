@@ -6,3 +6,8 @@ This bridge can be configured by providing the environment variables documented 
 
 ## Submodule note:
 This repository has git submodules, to clone them, use the `--recurse-submodules` flag, or run `git submodule update --init --recursive` after cloning.
+
+## Setup:
+You will need python 3.10 or newer to run this bridge.
+
+You can then install the required dependencies by running `pip install -r requirements.txt`.
