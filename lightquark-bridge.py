@@ -1,4 +1,4 @@
-import communication
+import Relink_Communication.communication as communication
 import asyncio
 import websockets.client as websockets
 import requests
