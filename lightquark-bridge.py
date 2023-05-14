@@ -108,7 +108,7 @@ async def RLMessageLoop(RLSocket):
                                     }
                                 ]
                             },
-                            headers={"Authorization": f"Bearer {prefs.TOKEN}", "lq-agent": "Relinked Bridge"}).text)
+                            headers={"Authorization": f"Bearer {prefs.TOKEN}", "lq-agent": "Relink Bridge"}).text)
 
 
 async def main():
