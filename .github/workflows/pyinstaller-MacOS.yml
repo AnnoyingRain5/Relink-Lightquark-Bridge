@@ -20,4 +20,4 @@ jobs:
           python_ver: '3.11'
           spec: 'lightquark-bridge.py'
           requirements: 'requirements.txt'
-          upload_exe_with_name: 'Lightquark_Relinked_Bridge'
+          upload_exe_with_name: 'Lightquark_Relink_Bridge'
