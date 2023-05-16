@@ -1,5 +1,7 @@
 # Lightquark <-> Relink Bridge
-This is a bridge between the Lightquark chat service and the Relink chat service.
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
+This is a bridge between the Lightquark chat service and the Relink chat service. 
 
 ## Configuration:
 This bridge can be configured by providing the environment variables documented in the `.env.example` file. You can either provide these in the environment directly, or by providing a `.env` file, such as by modifying and renaming the example file.
